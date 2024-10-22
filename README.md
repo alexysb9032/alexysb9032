@@ -1,5 +1,5 @@
 <p align="center">
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=alexysb9032&theme=onedark" alt="mjtechworks" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-trophies.vercel.app/?username=alexysb9032" alt="alexysb9032" /></a> </p>
 </p>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
